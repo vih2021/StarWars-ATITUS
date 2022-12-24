@@ -1,0 +1,108 @@
+.coluna {
+    border: 1px solid black
+}
+.contagem{
+    width: 30px;
+    height: 30px;
+    background-color: white;
+    border-radius: 50%;
+    border: 2px solid black;
+    float: right;
+    margin: 8px;
+    padding: 5px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.LoginText{
+    background-image: url("../images/cabecalho.jpg");
+    color: white;
+    height: 80px;
+    padding-top: 30px;
+    margin-bottom: 40px;
+}
+
+.cabecalho {
+    min-height: 180px;
+    text-align: center;
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px;
+    background-image: url("../images/cabecalho.jpg");
+    background-size: cover;
+}
+
+
+.info_dev{
+    word-wrap: break-word;
+    text-align: center;
+    margin: auto;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    padding: 30px;
+    width: 30%;
+    height: 50%;
+    border: 2px solid rgb(224, 203, 15);
+    background-color: rgb(0, 0, 0);
+    border-radius: 10px;
+}
+
+.developer{
+    background-size: cover;
+    margin: auto;
+    max-width: 200px;
+    width: 30vw;
+    height: 30vw;
+    max-height: 200px;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    border-radius: 50%;
+    background-image: url("../images/estudos.jpg");
+    background-size: cover;
+}
+
+.corpo {
+    min-height: 180px;
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.corpo_sobre {
+    background-image: url("../images/cabecalho.jpg");
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.rodape {
+    text-align: center;
+    font-size: 12px;
+    color: white;
+}
+
+.menu {
+    width: 100%;
+    margin-top: 10px;
+    display: inline-block;
+}
+
+.itemMenu {
+    color: aliceblue;
+    float: left;
+    background-image: url("../images/cabecalho.jpg");
+    width: 100px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.itemMenu:hover {
+    cursor: pointer;
+
+}

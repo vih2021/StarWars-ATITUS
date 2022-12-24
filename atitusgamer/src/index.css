@@ -1,0 +1,62 @@
+
+body, html {
+  background-color: #000000;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  height: 100%;
+  width: 100%;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.corpo{
+  text-align: center;
+
+}
+
+.Perguntas{
+  padding: 10px;
+  text-align: center;
+  margin: 5px;
+  border: 1px solid black;
+  border-radius: 10px;
+  height: 50px;
+  width: 90%;
+}
+
+.contato_duvidas_text{
+  width:100%;
+  height: 100%;
+}
+
+.contato_duvidas{
+  width:60%;
+  margin-left: 20%;
+}
+
+.duvida_text{
+  height: 70%;
+  width: 100%;
+  margin-bottom: 6%;
+}
+
+.divisao{
+  display: flex;
+}
+
+Table th{
+  background-color: #DCDCDC;
+}
+
+.loader{
+  width: 100%;
+  margin-top: 50px;
+  margin-left: 48%;
+}

@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0d153843.css",
+    "main.js": "/static/js/main.4f8abc47.js",
+    "static/js/787.beab8cbd.chunk.js": "/static/js/787.beab8cbd.chunk.js",
+    "static/media/estudos.jpg": "/static/media/estudos.6a4df0c89aa64c14397e.jpg",
+    "static/media/cabecalho.jpg": "/static/media/cabecalho.ad099fd3fdfcd07f2911.jpg",
+    "index.html": "/index.html",
+    "main.0d153843.css.map": "/static/css/main.0d153843.css.map",
+    "main.4f8abc47.js.map": "/static/js/main.4f8abc47.js.map",
+    "787.beab8cbd.chunk.js.map": "/static/js/787.beab8cbd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d153843.css",
+    "static/js/main.4f8abc47.js"
+  ]
+}
